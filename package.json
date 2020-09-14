@@ -1,0 +1,28 @@
+{
+  "name": "calculo_erva",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculaErva.js",
+  "directories": {
+    "test": "mocha"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/F-Sampaio/calculo_erva.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/F-Sampaio/calculo_erva/issues"
+  },
+  "homepage": "https://github.com/F-Sampaio/calculo_erva#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3"
+  }
+}
